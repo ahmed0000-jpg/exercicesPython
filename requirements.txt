@@ -1,0 +1,2 @@
+-un fichier, qui va lister toutes les dépendances de votre projet
+-pour installer des librairies via le fichier requirements.txt (pip install l -r requirements.txt)
